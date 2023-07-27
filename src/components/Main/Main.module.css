@@ -1,0 +1,13 @@
+.map {
+  display: grid;
+  width: 100%;
+  overflow: hidden;
+  grid-template-columns: 50% 50%;
+}
+
+.leaflet-container {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  height: 500px;
+}
